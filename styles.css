@@ -1,0 +1,29 @@
+body {
+    width: 100%;
+    
+}
+h1 { 
+    width: 250px;
+    padding: 15px;
+    text-align: center;
+    margin: 70px auto 40px auto;
+    background-color: salmon;
+    border-radius: 50%;
+}
+a {
+    
+    text-decoration: none;
+    color: black;
+}
+a:hover, li:hover{
+    
+    font-weight: bold;
+   
+}
+li {
+    list-style: none;
+    text-align: center;
+    padding: 10px 0;
+    font-size: 20px;
+    
+}
